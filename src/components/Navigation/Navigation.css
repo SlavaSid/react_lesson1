@@ -1,0 +1,15 @@
+nav {
+    width: 462px;
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+  }
+  nav li {
+    display: inline-block;
+    font-size: 12px;
+  }
+
+
+

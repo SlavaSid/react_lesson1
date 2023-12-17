@@ -1,0 +1,9 @@
+header {
+    padding-top: 53px;
+    padding-bottom: 53px;
+    width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 40px;
+  }
