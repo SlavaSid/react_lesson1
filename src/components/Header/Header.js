@@ -5,7 +5,7 @@ import { Navigation } from "../Navigation/Navigation";
 
 
 export const Header = () => (
-<header className="header">
+<header>
 <Logo />
 <Navigation />
 </header>
